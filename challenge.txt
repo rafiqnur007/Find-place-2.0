@@ -1,0 +1,13 @@
+Challenge name: Find Place 2.0
+
+Category : OSINT, Crypto 
+
+Author : 
+
+Flag Format : CTFBD{place_Name}
+
+End date : 24 Hour
+
+Hint : VHJ5IHBhc3N3b3JkIE5pZ2h0IERyaXZlciBhbGJ1bSBTaW5nZXIgbmFtZSBhbmQgdGhlIGxhc3QgaGFsZiBvZiB0aGUgcGFzc3dvcmQgaXMgaGVybW9pbmkgYWRkIHR3byBwYXJ0ClVzZSBsb3dlciBjYXNl
+
+File: https://drive.google.com/file/d/1EDbd-pxAZEtjtZA2JDE5D_aaCQs4UD-i/view?usp=drivesdk
